@@ -191,6 +191,6 @@ This preliminary work indicates promising directions worth pursuing, while highl
 
 ## Acknowledgments
 
-I would like to thank Shivam Arora for his mentorship and guidance throughout this project as well as the members of my research spring cohort for helpful discussions and feedback.
+I would like to thank Shivam Arora for his mentorship and guidance throughout this project as well as the members of my research sprint cohort for helpful discussions and feedback.
 Thanks to BlueDot Impact for organising the Technical AI Safety research sprint and providing the structure and support that made this work possible.
 Claude Sonnet 4.5 helped with writing the initial draft of this post.
