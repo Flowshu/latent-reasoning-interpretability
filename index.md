@@ -188,3 +188,9 @@ This research sprint demonstrates that latent reasoning in recurrent transformer
 
 As AI capabilities advance and architectural paradigms potentially shift toward latent reasoning, developing robust interpretability methods for such models becomes increasingly important for AI safety.
 This preliminary work indicates promising directions worth pursuing, while highlighting the significant research needed to validate these approaches at scale.
+
+## Acknowledgments
+
+I would like to thank Shivam Arora for his mentorship and guidance throughout this project as well as the members of my research spring cohort for helpful discussions and feedback.
+Thanks to BlueDot Impact for organising the Technical AI Safety research sprint and providing the structure and support that made this work possible.
+Claude Sonnet 4.5 helped with writing the initial draft of this post.
